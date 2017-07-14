@@ -10,14 +10,18 @@ print("Oak       :This world is inhabited by creatures called POKEMON! For somep
 
 
 
-print("Oak       :First, what is your name?")
-(trainer = input("Please Enter Your Name"))
+
+
+
+
+print("Oak       : Right! So your name is..."
+
+trainer = input("Please Enter Your Name")
 
 print(trainer)
+"
 
 
-
-print("Oak       : Right! So your name is" print(trainer)
 
 
 print("Oak       : This is my grandson. He's been your rival since you were a baby.")
