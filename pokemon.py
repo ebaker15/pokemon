@@ -11,27 +11,35 @@ print("Oak       :This world is inhabited by creatures called POKEMON! For somep
 
 
 
-
-
-
-print("Oak       : Right! So your name is..."
-
 trainer = input("Please Enter Your Name")
 
 print(trainer)
-"
 
 
 
+print("Oak       : Right! So your name is")
 
-print("Oak       : This is my grandson. He's been your rival since you were a baby.")
+print(                           trainer)
+
+print("Oak       : This is my grandson.")
+
+
+print(" (-.-)")
+print("___|___")
+print("   |")
+print("  / \ ")
+
+print("Oak       : He's been your rival since you were a baby.")
+
 
 print("Oak       :            ...Erm, what is his name again?")
 
+opponent = input("Please Enter Opponent's Name:")
+
+print(opponent)
+
+print("Oak       : That's right! I remember now! His name is .")
+print(trainer)
 
 
-print("Oak       : That's right! I remember now! His name is Autism.")
-
-
-
-print("Oak       : RED! Your very own POKEMON legend is about to unfold! A world of dreams and adventures with POKEMON awaits! Let's go!")
+print("Oak       :"  "Your very own POKEMON legend is about to unfold! A world of dreams and adventures with POKEMON awaits! Let's go!")
